@@ -1,7 +1,7 @@
 
 
 # ✈️ Flight Price Prediction using Machine Learning
-![Flight Price Prediction](./images/flight-price-banner.png)
+![Flight Price Prediction](https://github.com/sumankhatua5/Flight_Fare_Prediction/blob/main/1_kNBJQzG-tIWHGIcjv-7x4A%20(1).jpg)
 
 
 
