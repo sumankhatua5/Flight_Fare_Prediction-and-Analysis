@@ -1,6 +1,7 @@
 
 
 # ✈️ Flight Price Prediction using Machine Learning
+![Flight Price Prediction](./images/flight-price-banner.png)
 
 
 
