@@ -1,6 +1,4 @@
-Here’s the updated and enhanced `README.md` for your Flight Price Prediction project, including the use of **Pandas**, **NumPy**, and **80% accuracy** achieved with the **Random Forest** model:
 
----
 
 # ✈️ Flight Price Prediction using Machine Learning
 
