@@ -4,7 +4,7 @@ Here’s the updated and enhanced `README.md` for your Flight Price Prediction p
 
 # ✈️ Flight Price Prediction using Machine Learning
 
-![Flight Price Prediction](https://www.yourimagelink.com/cover-image.png)
+
 
 This project predicts flight ticket prices using machine learning. With an accuracy of **80%** achieved using a **Random Forest Regressor**, this web-based application is designed to provide reliable fare predictions based on key features such as airline, stops, travel duration, and more.
 
@@ -113,8 +113,6 @@ Check out the live version of the application here:
 ---
 
 ## 🌱 Future Improvements
-
-- **Hyperparameter Tuning**: Further optimize the model using GridSearchCV for even better accuracy.
 - **Additional Features**: Introduce features like flight class, day of the week, or demand trends to improve predictions.
 - **Deployment**: Extend the app for mobile and cloud-based accessibility.
 
