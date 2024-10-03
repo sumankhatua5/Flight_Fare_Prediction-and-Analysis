@@ -57,7 +57,7 @@ The dataset is sourced from **Kaggle**: [Flight Fare Prediction Dataset](https:/
 
 ## 📊 Visualizations
 
-The web app provides insightful visualizations to help users understand key trends:
+In the jupyter notebook i provides insightful visualizations to help users understand key trends:
 - **Price Distribution**: Visualize how flight prices are distributed.
 - **Airline Pricing**: Compare average prices across different airlines.
 - **Correlation Matrix**: Explore relationships between various flight details and pricing.
@@ -112,8 +112,9 @@ Check out the live version of the application here:
 ---
 
 ## 🌱 Future Improvements
-- **Additional Features**: Introduce features like flight class, day of the week, or demand trends to improve predictions.
-- **Deployment**: Extend the app for mobile and cloud-based accessibility.
+- **Additional Features**: i will Introduce features like flight class, day of the week, or demand trends to improve predictions
+ and low cost flight recomendation .
+- **Deployment**: in future i will Extend the app for mobile and cloud-based accessibility.
 
 ---
 
