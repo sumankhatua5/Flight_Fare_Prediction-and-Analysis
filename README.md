@@ -5,7 +5,7 @@
 
 
 
-This project predicts flight ticket prices using machine learning. With an accuracy of **80%** achieved using a **Random Forest Regressor**, this web-based application is designed to provide reliable fare predictions based on key features such as airline, stops, travel duration, and more.
+This project predicts flight ticket prices using machine learning. With an accuracy of **83%** achieved using a **Random Forest Regressor**, this web-based application is designed to provide reliable fare predictions based on key features such as airline, stops, travel duration, and more.
 
 ---
 
