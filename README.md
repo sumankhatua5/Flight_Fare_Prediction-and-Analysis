@@ -108,6 +108,12 @@ Check out the live version of the application here:
 3. **Web App Development**:
    - Built using **Streamlit** for an interactive interface.
    - Deployed for easy access to flight price predictions.
+## 📬 Contact
+
+If you have any questions or feedback, reach out to me:
+
+- **Your Name**: [Your LinkedIn](https://www.linkedin.com/in/suman-khatua-919a7b2b0/)
+- **Email**: sumankhatua51@gmail.com
 
 ---
 
